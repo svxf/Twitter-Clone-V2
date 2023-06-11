@@ -1,5 +1,5 @@
 <div>
-  <img width="220" align="right" src="/assets/Twitter.png"/>
+  <img width="220" align="right" src="/resources/Twitter.png"/>
   <br>
   <h1>Twitter Clone V2</h1>
   <p>Preview: https://twitter-clone-svxf.vercel.app</p>
@@ -14,11 +14,11 @@
 ## Technology ⚒️
 
 - [React](https://react.dev)
-- [Next]
-- [NextAuth]
-- [Tailwind]
-- [Prisma]
-- [Mongo]
+- [Next](https://nextjs.org)
+- [NextAuth](https://next-auth.js.org)
+- [Tailwind](https://tailwindcss.com)
+- [Prisma](https://www.prisma.io)
+- [Mongo](https://mongodb.com)
 
 
 ## 💡 Goals
