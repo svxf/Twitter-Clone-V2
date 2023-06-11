@@ -1,4 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div>
+  <img width="220" align="right" src="/assets/Twitter.png"/>
+  <br>
+  <h1>Twitter Clone V2</h1>
+  <p>Preview: https://twitter-clone-svxf.vercel.app</p>
+</div>
+
+## ✨ Features
+- 🔒 Authentication
+- 📝 Post Tweets and reply to tweets
+- 👍 Like tweets
+- 📷 Customize profile
+
+## Technology ⚒️
+
+- [React](https://react.dev)
+- [Next]
+- [NextAuth]
+- [Tailwind]
+- [Prisma]
+- [Mongo]
+
+
+## 💡 Goals
+✅ - Fully Implemented, ⚒️ Partially Implemented, ❌ - Not Implemented yet
+
+| Feature                                                        | State |
+|----------------------------------------------------------------|-------|
+| Basic Functionality                                            |  ✅  |
+| Add media to tweets                                            |  ❌  |
+| Share tweets                                                   |  ❌  |
+
+
+## 🚀 Installation
+Here's how you can get started:
+
+- First, you need to download this repository. You can do this by [clicking here](https://github.com/svxf/Twitter-Clone-V2/archive/refs/heads/master.zip).
+- Once the download is complete, extract the contents of the ZIP file to a location on your computer where you can easily find it.
 
 ## Getting Started
 
